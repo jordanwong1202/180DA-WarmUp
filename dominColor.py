@@ -1,3 +1,4 @@
+#Credit to:https://code.likeagirl.io/finding-dominant-colour-on-an-image-b4e075f98097
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
